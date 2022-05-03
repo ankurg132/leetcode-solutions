@@ -13,7 +13,7 @@ class Solution {
             if(index < arr2.length && Math.abs(arr2[index]-arr1[i])<=d){
                 isShort = true;
             }
-            if(index != 0 && Math.abs(arr2[index-1] - arr1[i]) <= d){
+            else if(index != 0 && Math.abs(arr2[index-1] - arr1[i]) <= d){
                 isShort = true;
             }
             if(!isShort){
