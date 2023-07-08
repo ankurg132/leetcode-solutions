@@ -8,19 +8,11 @@ class Solution:
                 count = 0
                 students = students[1:]
                 sandwiches = sandwiches[1:]
-                print("STD")
-                print(students)
-                print("Snd")
-                print(sandwiches)
             else:
                 count = count + 1
                 temp = students[0]
                 students = students[1:]
                 students.append(temp)
-                print("STD")
-                print(students)
-                print("Snd")
-                print(sandwiches)
             if count == len(students):
                 break
         return total
