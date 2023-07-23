@@ -8,7 +8,6 @@ public:
                 newString += s[i];
             }
         }
-        cout<<newString;
         string rev = string(newString.rbegin(), newString.rend());
 	    if(rev==newString){
 	        return true;
