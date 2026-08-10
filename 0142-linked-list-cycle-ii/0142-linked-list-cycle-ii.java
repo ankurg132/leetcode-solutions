@@ -20,32 +20,15 @@ public class Solution {
             fast = fast.next.next;
             slow = slow.next;
             if(fast == slow){
-                isCycle = true;
-                ListNode temp = slow;
-                do{
-                    length++;
+                ListNode temp = head;
+                while(temp!=slow){
                     temp = temp.next;
-                }while(temp != slow);
-                break;
+                    slow = slow.next;
+                };
+                return temp;
             }
         }
-
-        if(!isCycle){
-            return null;
-        }
-
-        //length is found.
-        
-        ListNode f = head;
-        ListNode s = head;
-        for(int i=0; i < length; i++){
-            s = s.next;
-        }
-        while(f != s){
-            f = f.next;
-            s = s.next;
-        }
-        return f;
+        return null;
 
     }
 }
