@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ankurg132/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ankurg132/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankurg132/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ankurg132/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ankurg132/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ankurg132/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## String
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ankurg132/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankurg132/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankurg132/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ankurg132/leetcode-solutions/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/ankurg132/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ankurg132/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankurg132/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 |  |
@@ -86,4 +89,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankurg132/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankurg132/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ankurg132/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
