@@ -11,24 +11,22 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        // step 1: find length of circular linked list
-        int length = 0;
         ListNode fast = head;
-        boolean isCycle = false;
         ListNode slow = head;
         while(fast != null && fast.next != null){
             fast = fast.next.next;
             slow = slow.next;
             if(fast == slow){
+                //cycle detected
+                //now we start with head and the slow pointer and stop at the point when they meet.
                 ListNode temp = head;
-                while(temp!=slow){
+                while(temp != slow){
                     temp = temp.next;
                     slow = slow.next;
-                };
+                }
                 return temp;
             }
         }
         return null;
-
     }
 }
