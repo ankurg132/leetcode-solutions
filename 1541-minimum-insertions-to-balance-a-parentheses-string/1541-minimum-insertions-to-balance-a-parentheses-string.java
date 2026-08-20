@@ -10,10 +10,9 @@ class Solution {
                 if(i+1 < s.length() && s.charAt(i+1) == ')'){
                     i++;
                     //)) but no starting (, needs to be appended.
-                    if(stack.isEmpty() || stack.peek() != '('){
+                    if(stack.isEmpty()){
                         answer += 1;
-                    }
-                    if(!stack.isEmpty()){
+                    }else{
                         stack.pop();
                     }
                 }else {
@@ -22,8 +21,6 @@ class Solution {
                         answer += 2;
                     }else{
                         answer += 1;
-                    }
-                    if(!stack.isEmpty()){
                         stack.pop();
                     }
                 }
