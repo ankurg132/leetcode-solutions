@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ankurg132/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankurg132/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [2427-number-of-common-factors](https://github.com/ankurg132/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +141,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankurg132/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankurg132/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/ankurg132/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/ankurg132/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/ankurg132/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/ankurg132/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
